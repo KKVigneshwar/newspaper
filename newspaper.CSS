@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(228, 193, 128) !important;
+}
+.line{
+    border-top-style: solid;
+    border-radius: 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+    flex-direction: column;
+}
+.line2{
+    margin-left: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.date123{
+    margin: 10px;
+    margin-left: 66px;
+}
+.h1{
+    text-align: center;
+    font-weight: bolder !important;
+    font-size: 90px !important;
+    word-spacing: 60px !important;
+}
+.lorem{
+    margin-top: 10px;
+    margin-right: 70px;
+}
+    
+#row2{
+    margin-top: 15px;
+    padding: 16px;
+}
